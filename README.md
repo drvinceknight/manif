@@ -23,7 +23,7 @@ known as ‘manifolds’, which in this context are no less
 than the smooth topologic surfaces of the Lie groups where
 the state representations evolve.
 
-**manif** was designed for easy integration to larger project.
+**manif** was designed for easy integration in to larger projects.
 A single dependency on [Eigen](http://eigen.tuxfamily.org),
 header-only for easy integration, templated on
 the underlying scalar type so that one can use its own,
